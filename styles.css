@@ -1,0 +1,47 @@
+body {background-color: #70d6ff;}
+
+h1{color: #ffffff; text-align: center; font-family: ;}
+
+P{color: #ffffff; text-align: center;}
+
+li{
+	display: inline;}
+
+#links{
+	background-color: whites;
+	text-decoration: none;
+	color: white;
+	font-size: 120%;}
+
+
+.toplink{
+	padding: 0% 5% 0% 85%;
+	background-color: navy;
+	width: 10%;
+}
+
+#welcome{
+	font-family: 'Shrikhand';
+}
+
+h1{
+	padding: 30% 100% 0 100;
+	background-color: white;
+	color: navy;
+	width: 100%;
+}
+
+p{
+	padding: 0% 40% 0% 100;
+	background-color: navy;
+	color: whites;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 30%;
+	max-height: auto;
+	border-radius: 10%;}
+
